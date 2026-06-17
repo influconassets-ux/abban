@@ -1,0 +1,1048 @@
+{
+  "data": [
+    {
+      "_id": "685611110894a309e63d9828",
+      "name": "Wafero Coconut Ball",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "/images/newProductImages/waferoCoconut.webp",
+      "images": ["/images/newProductImages/waferoCoconut.webp"],
+      "tags": ["Balls"],
+      "collections": ["New Arrivals"],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.467Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    },
+    {
+      "_id": "685611110894a309e63d982d",
+      "name": "Assorted Fruit Pop",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "https://res.cloudinary.com/dyxmjxrgx/image/upload/v1750421582/Assorted_Fruit_Pop_bwhdyw.webp",
+      "images": [
+        "https://res.cloudinary.com/dyxmjxrgx/image/upload/v1750421582/Assorted_Fruit_Pop_bwhdyw.webp"
+      ],
+      "tags": ["Pops"],
+      "collections": [""],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.467Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    },
+    {
+      "_id": "685611110894a309e63d982e",
+      "name": "Assorted Pop",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "https://res.cloudinary.com/dyxmjxrgx/image/upload/v1750421598/Assorted_Pop_xcbxqr.webp",
+      "images": [
+        "https://res.cloudinary.com/dyxmjxrgx/image/upload/v1750421598/Assorted_Pop_xcbxqr.webp"
+      ],
+      "tags": ["Pops"],
+      "collections": [""],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.467Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    },
+    {
+      "_id": "685611110894a309e63d982f",
+      "name": "Baklava",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "https://res.cloudinary.com/dyxmjxrgx/image/upload/v1750421639/Baklava_gqweiq.webp",
+      "images": [
+        "https://res.cloudinary.com/dyxmjxrgx/image/upload/v1750421639/Baklava_gqweiq.webp"
+      ],
+      "tags": ["Baklava"],
+      "collections": ["Best Sellers"],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.467Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    },
+    {
+      "_id": "685611110894a309e63d9830",
+      "name": "Bubble Pop",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "https://res.cloudinary.com/dyxmjxrgx/image/upload/v1750421667/Bubble_Pop_py6qau.webp",
+      "images": [
+        "https://res.cloudinary.com/dyxmjxrgx/image/upload/v1750421667/Bubble_Pop_py6qau.webp"
+      ],
+      "tags": ["Pops"],
+      "collections": [""],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.467Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    },
+    {
+      "_id": "685611110894a309e63d9831",
+      "name": "Chocolate Eclairs",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [""],
+      "primaryImage": "/images/newProductImages/eclairs/chocolate.webp",
+      "images": ["/images/newProductImages/eclairs/chocolate.webp"],
+      "tags": ["Eclairs"],
+      "collections": ["Classic Favorites"],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.467Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    },
+    {
+      "_id": "685611110894a309e63d9832",
+      "name": "Coffee Eclairs",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "/images/newProductImages/eclairs/coffee.webp",
+      "images": ["/images/newProductImages/eclairs/coffee.webp"],
+      "tags": ["Eclairs"],
+      "collections": ["Best Sellers"],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.467Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    },
+    {
+      "_id": "685611110894a309e63d9833",
+      "name": "Delights Eclairs Travel Pack",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "/images/newProductImages/delight/chocolate.webp",
+      "images": ["/images/newProductImages/delight/chocolate.webp"],
+      "tags": ["Eclairs"],
+      "collections": [""],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.467Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    },
+    {
+      "_id": "685611110894a309e63d9834",
+      "name": "Delights Eclairs Travel Pack",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "/images/newProductImages/delight/coffee.webp",
+      "images": ["/images/newProductImages/delight/coffee.webp"],
+      "tags": ["Eclairs"],
+      "collections": [""],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.467Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    },
+    {
+      "_id": "685611110894a309e63d9835",
+      "name": "Delight Honey",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "/images/newProductImages/delight/honey.webp",
+      "images": ["/images/newProductImages/delight/honey.webp"],
+      "tags": ["Eclairs"],
+      "collections": ["Best Sellers"],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.467Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    },
+    {
+      "_id": "685611110894a309e63d9836",
+      "name": "Delight Milk",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "/images/newProductImages/delight/milk.webp",
+      "images": ["/images/newProductImages/delight/milk.webp"],
+      "tags": ["Eclairs"],
+      "collections": [""],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.467Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    },
+    {
+      "_id": "685611110894a309e63d9837",
+      "name": "Delight Pistachio",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "/images/newProductImages/delight/pistachio.webp",
+      "images": ["/images/newProductImages/delight/pistachio.webp"],
+      "tags": ["Eclairs"],
+      "collections": [""],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.467Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    },
+    {
+      "_id": "685611110894a309e63d9838",
+      "name": "Honey Eclairs",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "/images/newProductImages/eclairs/honey.webp",
+      "images": ["/images/newProductImages/eclairs/honey.webp"],
+      "tags": ["Eclairs"],
+      "collections": ["Best Sellers"],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.467Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    },
+    {
+      "_id": "685611110894a309e63d9839",
+      "name": "Jolly Baklava",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "https://res.cloudinary.com/dyxmjxrgx/image/upload/v1750421868/Jolly_Baklava_fnir9i.webp",
+      "images": [
+        "https://res.cloudinary.com/dyxmjxrgx/image/upload/v1750421868/Jolly_Baklava_fnir9i.webp"
+      ],
+      "tags": ["Baklava"],
+      "collections": [""],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.467Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    },
+    {
+      "_id": "685611110894a309e63d983a",
+      "name": "Pistachio Kunafa Milk Chocolate",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "/images/newProductImages/chocolatebars/kunafa.webp",
+      "images": ["/images/newProductImages/chocolatebars/kunafa.webp"],
+      "tags": ["Chocolate bar"],
+      "collections": [""],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.467Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    },
+    {
+      "_id": "685611110894a309e63d983a",
+      "name": "Pistachio Kunafa Milk Chocolate",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "/images/newProductImages/chocolatebars/kunafa80g.webp",
+      "images": ["/images/newProductImages/chocolatebars/kunafa80g.webp"],
+      "tags": ["Chocolate bar"],
+      "collections": [""],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.467Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    },
+    {
+      "_id": "685611110894a309e63d983a",
+      "name": "Kunafa Pistachio Dark Chocolate",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "/images/new product.jpeg",
+      "images": ["/images/new product.jpeg"],
+      "tags": ["Chocolate bar"],
+      "collections": ["New Arrivals"],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.467Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    },
+    {
+      "_id": "685611110894a309e63d983b",
+      "name": "Jolly Delight Assorted",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "https://res.cloudinary.com/dyxmjxrgx/image/upload/v1750421897/Jolly_Delight_Assorted_vogu0x.webp",
+      "images": [
+        "https://res.cloudinary.com/dyxmjxrgx/image/upload/v1750421897/Jolly_Delight_Assorted_vogu0x.webp"
+      ],
+      "tags": ["Eclairs"],
+      "collections": ["Best Sellers"],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.467Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    },
+    {
+      "_id": "685611110894a309e63d983c",
+      "name": "Jolly Delight Chocolate",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "https://res.cloudinary.com/dyxmjxrgx/image/upload/v1750421918/Jolly_Delight_Chocolate_kezxfv.webp",
+      "images": [
+        "https://res.cloudinary.com/dyxmjxrgx/image/upload/v1750421918/Jolly_Delight_Chocolate_kezxfv.webp"
+      ],
+      "tags": ["Eclairs"],
+      "collections": [""],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.467Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    },
+    {
+      "_id": "685611110894a309e63d983d",
+      "name": "Jolly Delight Milk",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "https://res.cloudinary.com/dyxmjxrgx/image/upload/v1750421939/Jolly_Delight_Milk_nbmeyo.webp",
+      "images": [
+        "https://res.cloudinary.com/dyxmjxrgx/image/upload/v1750421939/Jolly_Delight_Milk_nbmeyo.webp"
+      ],
+      "tags": ["Eclairs"],
+      "collections": [""],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.467Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    },
+
+    {
+      "_id": "685611110894a309e63d983f",
+      "name": "Kofy Candy",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "/images/newProductImages/kofycandy.webp",
+      "images": ["/images/newProductImages/kofycandy.webp"],
+      "tags": ["Candy"],
+      "collections": [""],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.467Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    },
+    {
+      "_id": "685611110894a309e63d9840",
+      "name": "Kunafa Dubai Chocolate",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "/images/newProductImages/kunafa.webp",
+      "images": ["/images/newProductImages/kunafa.webp"],
+      "tags": ["Kunafa"],
+      "collections": ["Classic Favorites"],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.467Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    },
+    {
+      "_id": "685611110894a309e63d9841",
+      "name": "Love Candy",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "https://res.cloudinary.com/dyxmjxrgx/image/upload/v1750422134/Love_Candy_xrblwn.webp",
+      "images": [
+        "https://res.cloudinary.com/dyxmjxrgx/image/upload/v1750422134/Love_Candy_xrblwn.webp"
+      ],
+      "tags": ["Candy"],
+      "collections": ["Best Sellers"],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.467Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    },
+    {
+      "_id": "685611110894a309e63d9842",
+      "name": "Milk Eclairs",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [""],
+      "primaryImage": "/images/newProductImages/eclairs/milk.webp",
+      "images": ["/images/newProductImages/eclairs/milk.webp"],
+      "tags": ["Eclairs"],
+      "collections": ["Classic Favorites"],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.467Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    },
+    {
+      "_id": "685611110894a309e63d9843",
+      "name": "Mint Candy",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "https://res.cloudinary.com/dyxmjxrgx/image/upload/v1750422194/Mint_Candy_vpyapm.webp",
+      "images": [
+        "https://res.cloudinary.com/dyxmjxrgx/image/upload/v1750422194/Mint_Candy_vpyapm.webp"
+      ],
+      "tags": ["Candy"],
+      "collections": [""],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.468Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    },
+    {
+      "_id": "685611110894a309e63d9844",
+      "name": "Peanut Eclairs",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "/images/newProductImages/eclairs/peanut.webp",
+      "images": ["/images/newProductImages/eclairs/peanut.webp"],
+      "tags": ["Eclairs"],
+      "collections": ["Best Sellers"],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.468Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    },
+    {
+      "_id": "685611110894a309e63d9845",
+      "name": "Selection Eclairs",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "/images/newProductImages/eclairs/selection.webp",
+      "images": ["/images/newProductImages/eclairs/selection.webp"],
+      "tags": ["Eclairs"],
+      "collections": [""],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.468Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    },
+    {
+      "_id": "685611110894a309e63d9846",
+      "name": "Sour Pop",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "https://res.cloudinary.com/dyxmjxrgx/image/upload/v1750422243/Sour_Pop_kefc8q.webp",
+      "images": [
+        "https://res.cloudinary.com/dyxmjxrgx/image/upload/v1750422243/Sour_Pop_kefc8q.webp"
+      ],
+      "tags": ["Pops"],
+      "collections": [""],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.468Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    },
+
+    {
+      "_id": "685611110894a309e63d984b",
+      "name": "Abaan Toffees",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "/images/newProductImages/abaantoffee mockup.webp",
+      "images": ["/images/newProductImages/abaantoffee mockup.webp"],
+      "tags": ["Toffee"],
+      "collections": [""],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.468Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    },
+    {
+      "_id": "685611110894a309e63d982b",
+      "name": "Kunafa Pistachio Choco balls",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "/images/newProductImages/kunafaBall.webp",
+      "images": ["/images/newProductImages/kunafaBall.webp"],
+      "tags": ["Balls"],
+      "collections": ["New Arrivals"],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.467Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    }
+  ]
+}

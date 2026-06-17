@@ -1,0 +1,148 @@
+@import url("https://fonts.googleapis.com/css2?family=Archivo:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .btn-primary {
+    @apply text-white rounded-[4vw] flex py-[0.6vw] px-2 bg-[#36196A] font-archivo font-semibold
+     text-[1.5vw] gap-1 shadow-[0px_2px_18px_2px_rgba(251,171,42,0.3)] transition-shadow duration-300 ease-in-out lg:text-[1.2vw];
+  }
+  .btn-primary:hover {
+    box-shadow: 0px 2px 18px 2px rgba(251, 171, 42, 0.8);
+  }
+
+  .btn-primary-img {
+    @apply w-[1.4vw];
+  }
+  .btn-primary2 {
+    @apply text-white rounded-[4vw] flex py-[0.6vw] px-2 bg-[#EC1D23] font-archivo font-semibold
+     text-[1.5vw] gap-1 shadow-[0px_2px_18px_2px_rgba(251,171,42,0.3)] transition-shadow duration-300 ease-in-out lg:text-[1.2vw];
+  }
+  .btn-primary2:hover {
+    box-shadow: 0px 2px 18px 2px rgba(251, 171, 42, 0.8);
+  }
+
+  .btn-primary2-img {
+    @apply w-[1.4vw];
+  }
+}
+
+.archivo,
+p,
+button {
+  font-family: "Archivo", sans-serif;
+}
+
+body,
+html {
+  scroll-behavior: smooth;
+  width: 100%;
+  min-height: 100%;
+  height: auto;
+  background: linear-gradient(to right, #f7f0f9 0%, #f7f0f9 100%);
+}
+
+@media only screen and (min-width: 768px) {
+  .page_container {
+    background: linear-gradient(
+      123deg,
+      #efd7ef 8%,
+      #f5f9fc 39%,
+      #f8eae1 66%,
+      #eaf8f9 91%
+    );
+  }
+  .page_container_reverse {
+    background: linear-gradient(
+      293deg,
+      #efd7ef 8%,
+      #f5f9fc 45%,
+      #f8eae1 75%,
+      #eaf8f9 100%
+    );
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  .shadow-component {
+    box-shadow: 0px 4px 16px 0px #f83d8e;
+  }
+}
+
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.animate-blink {
+  animation: blink 1s infinite;
+}
+
+.shineback {
+  /* Gradient */
+
+  position: absolute;
+  right: 50%;
+  translate: 50% 45%;
+  bottom: 50%;
+
+  background: radial-gradient(50% 50% at 50% 50%, #fbab2a 0%, #ffffff 90%);
+  border-radius: 546px;
+}
+
+.shineback_About {
+  /* Gradient */
+
+  position: absolute;
+  right: 50%;
+  translate: 50% 45%;
+  bottom: 50%;
+  border-radius: 546px;
+}
+
+@keyframes bounce-in {
+  0% {
+    opacity: 0;
+    transform: scale(0.95) translateY(20px);
+  }
+  60% {
+    transform: scale(1.05) translateY(-5px);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+.blurred {
+  backdrop-filter: blur(5px);
+  pointer-events: none;
+}
+
+@keyframes bounce-out {
+  0% {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(0.95) translateY(20px);
+  }
+}
+
+.animate-enter {
+  animation: bounce-in 0.5s cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
+}
+
+.animate-leave {
+  animation: bounce-out 0.3s ease-in forwards;
+}
