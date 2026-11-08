@@ -23,9 +23,15 @@
       "description": [],
       "categories": [],
       "primaryImage": "/images/newProductImages/waferoCoconut.webp",
-      "images": ["/images/newProductImages/waferoCoconut.webp"],
-      "tags": ["Balls"],
-      "collections": ["New Arrivals"],
+      "images": [
+        "/images/newProductImages/waferoCoconut.webp"
+      ],
+      "tags": [
+        "Balls"
+      ],
+      "collections": [
+        "New Arrivals"
+      ],
       "isFeatured": false,
       "availability": "InStock",
       "status": "Active",
@@ -60,8 +66,12 @@
       "images": [
         "https://res.cloudinary.com/dyxmjxrgx/image/upload/v1750421582/Assorted_Fruit_Pop_bwhdyw.webp"
       ],
-      "tags": ["Pops"],
-      "collections": [""],
+      "tags": [
+        "Pops"
+      ],
+      "collections": [
+        ""
+      ],
       "isFeatured": false,
       "availability": "InStock",
       "status": "Active",
@@ -96,8 +106,12 @@
       "images": [
         "https://res.cloudinary.com/dyxmjxrgx/image/upload/v1750421598/Assorted_Pop_xcbxqr.webp"
       ],
-      "tags": ["Pops"],
-      "collections": [""],
+      "tags": [
+        "Pops"
+      ],
+      "collections": [
+        ""
+      ],
       "isFeatured": false,
       "availability": "InStock",
       "status": "Active",
@@ -132,8 +146,12 @@
       "images": [
         "https://res.cloudinary.com/dyxmjxrgx/image/upload/v1750421639/Baklava_gqweiq.webp"
       ],
-      "tags": ["Baklava"],
-      "collections": ["Best Sellers"],
+      "tags": [
+        "Baklava"
+      ],
+      "collections": [
+        "Best Sellers"
+      ],
       "isFeatured": false,
       "availability": "InStock",
       "status": "Active",
@@ -168,8 +186,12 @@
       "images": [
         "https://res.cloudinary.com/dyxmjxrgx/image/upload/v1750421667/Bubble_Pop_py6qau.webp"
       ],
-      "tags": ["Pops"],
-      "collections": [""],
+      "tags": [
+        "Pops"
+      ],
+      "collections": [
+        ""
+      ],
       "isFeatured": false,
       "availability": "InStock",
       "status": "Active",
@@ -199,11 +221,19 @@
         }
       ],
       "description": [],
-      "categories": [""],
+      "categories": [
+        ""
+      ],
       "primaryImage": "/images/newProductImages/eclairs/chocolate.webp",
-      "images": ["/images/newProductImages/eclairs/chocolate.webp"],
-      "tags": ["Eclairs"],
-      "collections": ["Classic Favorites"],
+      "images": [
+        "/images/newProductImages/eclairs/chocolate.webp"
+      ],
+      "tags": [
+        "Eclairs"
+      ],
+      "collections": [
+        "Classic Favorites"
+      ],
       "isFeatured": false,
       "availability": "InStock",
       "status": "Active",
@@ -235,9 +265,15 @@
       "description": [],
       "categories": [],
       "primaryImage": "/images/newProductImages/eclairs/coffee.webp",
-      "images": ["/images/newProductImages/eclairs/coffee.webp"],
-      "tags": ["Eclairs"],
-      "collections": ["Best Sellers"],
+      "images": [
+        "/images/newProductImages/eclairs/coffee.webp"
+      ],
+      "tags": [
+        "Eclairs"
+      ],
+      "collections": [
+        "Best Sellers"
+      ],
       "isFeatured": false,
       "availability": "InStock",
       "status": "Active",
@@ -269,9 +305,15 @@
       "description": [],
       "categories": [],
       "primaryImage": "/images/newProductImages/delight/chocolate.webp",
-      "images": ["/images/newProductImages/delight/chocolate.webp"],
-      "tags": ["Eclairs"],
-      "collections": [""],
+      "images": [
+        "/images/newProductImages/delight/chocolate.webp"
+      ],
+      "tags": [
+        "Eclairs"
+      ],
+      "collections": [
+        ""
+      ],
       "isFeatured": false,
       "availability": "InStock",
       "status": "Active",
@@ -303,9 +345,15 @@
       "description": [],
       "categories": [],
       "primaryImage": "/images/newProductImages/delight/coffee.webp",
-      "images": ["/images/newProductImages/delight/coffee.webp"],
-      "tags": ["Eclairs"],
-      "collections": [""],
+      "images": [
+        "/images/newProductImages/delight/coffee.webp"
+      ],
+      "tags": [
+        "Eclairs"
+      ],
+      "collections": [
+        ""
+      ],
       "isFeatured": false,
       "availability": "InStock",
       "status": "Active",
@@ -337,9 +385,15 @@
       "description": [],
       "categories": [],
       "primaryImage": "/images/newProductImages/delight/honey.webp",
-      "images": ["/images/newProductImages/delight/honey.webp"],
-      "tags": ["Eclairs"],
-      "collections": ["Best Sellers"],
+      "images": [
+        "/images/newProductImages/delight/honey.webp"
+      ],
+      "tags": [
+        "Eclairs"
+      ],
+      "collections": [
+        "Best Sellers"
+      ],
       "isFeatured": false,
       "availability": "InStock",
       "status": "Active",
@@ -371,9 +425,15 @@
       "description": [],
       "categories": [],
       "primaryImage": "/images/newProductImages/delight/milk.webp",
-      "images": ["/images/newProductImages/delight/milk.webp"],
-      "tags": ["Eclairs"],
-      "collections": [""],
+      "images": [
+        "/images/newProductImages/delight/milk.webp"
+      ],
+      "tags": [
+        "Eclairs"
+      ],
+      "collections": [
+        ""
+      ],
       "isFeatured": false,
       "availability": "InStock",
       "status": "Active",
@@ -405,9 +465,15 @@
       "description": [],
       "categories": [],
       "primaryImage": "/images/newProductImages/delight/pistachio.webp",
-      "images": ["/images/newProductImages/delight/pistachio.webp"],
-      "tags": ["Eclairs"],
-      "collections": [""],
+      "images": [
+        "/images/newProductImages/delight/pistachio.webp"
+      ],
+      "tags": [
+        "Eclairs"
+      ],
+      "collections": [
+        ""
+      ],
       "isFeatured": false,
       "availability": "InStock",
       "status": "Active",
@@ -439,9 +505,15 @@
       "description": [],
       "categories": [],
       "primaryImage": "/images/newProductImages/eclairs/honey.webp",
-      "images": ["/images/newProductImages/eclairs/honey.webp"],
-      "tags": ["Eclairs"],
-      "collections": ["Best Sellers"],
+      "images": [
+        "/images/newProductImages/eclairs/honey.webp"
+      ],
+      "tags": [
+        "Eclairs"
+      ],
+      "collections": [
+        "Best Sellers"
+      ],
       "isFeatured": false,
       "availability": "InStock",
       "status": "Active",
@@ -476,8 +548,12 @@
       "images": [
         "https://res.cloudinary.com/dyxmjxrgx/image/upload/v1750421868/Jolly_Baklava_fnir9i.webp"
       ],
-      "tags": ["Baklava"],
-      "collections": [""],
+      "tags": [
+        "Baklava"
+      ],
+      "collections": [
+        ""
+      ],
       "isFeatured": false,
       "availability": "InStock",
       "status": "Active",
@@ -509,9 +585,15 @@
       "description": [],
       "categories": [],
       "primaryImage": "/images/newProductImages/chocolatebars/kunafa.webp",
-      "images": ["/images/newProductImages/chocolatebars/kunafa.webp"],
-      "tags": ["Chocolate bar"],
-      "collections": [""],
+      "images": [
+        "/images/newProductImages/chocolatebars/kunafa.webp"
+      ],
+      "tags": [
+        "Chocolate bar"
+      ],
+      "collections": [
+        ""
+      ],
       "isFeatured": false,
       "availability": "InStock",
       "status": "Active",
@@ -543,9 +625,15 @@
       "description": [],
       "categories": [],
       "primaryImage": "/images/newProductImages/chocolatebars/kunafa80g.webp",
-      "images": ["/images/newProductImages/chocolatebars/kunafa80g.webp"],
-      "tags": ["Chocolate bar"],
-      "collections": [""],
+      "images": [
+        "/images/newProductImages/chocolatebars/kunafa80g.webp"
+      ],
+      "tags": [
+        "Chocolate bar"
+      ],
+      "collections": [
+        ""
+      ],
       "isFeatured": false,
       "availability": "InStock",
       "status": "Active",
@@ -556,7 +644,7 @@
     },
     {
       "_id": "685611110894a309e63d983a",
-      "name": "Kunafa Pistachio Dark Chocolate",
+      "name": "Dark Coffee Kunafa Chocolate",
       "prices": [
         {
           "country": "UAE",
@@ -577,9 +665,15 @@
       "description": [],
       "categories": [],
       "primaryImage": "/images/new product.jpeg",
-      "images": ["/images/new product.jpeg"],
-      "tags": ["Chocolate bar"],
-      "collections": ["New Arrivals"],
+      "images": [
+        "/images/new product.jpeg"
+      ],
+      "tags": [
+        "Chocolate bar"
+      ],
+      "collections": [
+        "New Arrivals"
+      ],
       "isFeatured": false,
       "availability": "InStock",
       "status": "Active",
@@ -614,8 +708,12 @@
       "images": [
         "https://res.cloudinary.com/dyxmjxrgx/image/upload/v1750421897/Jolly_Delight_Assorted_vogu0x.webp"
       ],
-      "tags": ["Eclairs"],
-      "collections": ["Best Sellers"],
+      "tags": [
+        "Eclairs"
+      ],
+      "collections": [
+        "Best Sellers"
+      ],
       "isFeatured": false,
       "availability": "InStock",
       "status": "Active",
@@ -650,8 +748,12 @@
       "images": [
         "https://res.cloudinary.com/dyxmjxrgx/image/upload/v1750421918/Jolly_Delight_Chocolate_kezxfv.webp"
       ],
-      "tags": ["Eclairs"],
-      "collections": [""],
+      "tags": [
+        "Eclairs"
+      ],
+      "collections": [
+        ""
+      ],
       "isFeatured": false,
       "availability": "InStock",
       "status": "Active",
@@ -686,43 +788,12 @@
       "images": [
         "https://res.cloudinary.com/dyxmjxrgx/image/upload/v1750421939/Jolly_Delight_Milk_nbmeyo.webp"
       ],
-      "tags": ["Eclairs"],
-      "collections": [""],
-      "isFeatured": false,
-      "availability": "InStock",
-      "status": "Active",
-      "variants": [],
-      "createdAt": "2025-06-21T01:55:29.467Z",
-      "updatedAt": "2025-06-21T04:45:44.729Z",
-      "__v": 0
-    },
-
-    {
-      "_id": "685611110894a309e63d983f",
-      "name": "Kofy Candy",
-      "prices": [
-        {
-          "country": "UAE",
-          "currency": "AED",
-          "price": 40.92
-        },
-        {
-          "country": "Africa",
-          "currency": "ZAR",
-          "price": 102.3
-        },
-        {
-          "country": "India",
-          "currency": "INR",
-          "price": 347.82
-        }
+      "tags": [
+        "Eclairs"
       ],
-      "description": [],
-      "categories": [],
-      "primaryImage": "/images/newProductImages/kofycandy.webp",
-      "images": ["/images/newProductImages/kofycandy.webp"],
-      "tags": ["Candy"],
-      "collections": [""],
+      "collections": [
+        ""
+      ],
       "isFeatured": false,
       "availability": "InStock",
       "status": "Active",
@@ -754,9 +825,15 @@
       "description": [],
       "categories": [],
       "primaryImage": "/images/newProductImages/kunafa.webp",
-      "images": ["/images/newProductImages/kunafa.webp"],
-      "tags": ["Kunafa"],
-      "collections": ["Classic Favorites"],
+      "images": [
+        "/images/newProductImages/kunafa.webp"
+      ],
+      "tags": [
+        "Kunafa"
+      ],
+      "collections": [
+        "Classic Favorites"
+      ],
       "isFeatured": false,
       "availability": "InStock",
       "status": "Active",
@@ -791,8 +868,12 @@
       "images": [
         "https://res.cloudinary.com/dyxmjxrgx/image/upload/v1750422134/Love_Candy_xrblwn.webp"
       ],
-      "tags": ["Candy"],
-      "collections": ["Best Sellers"],
+      "tags": [
+        "Candy"
+      ],
+      "collections": [
+        "Best Sellers"
+      ],
       "isFeatured": false,
       "availability": "InStock",
       "status": "Active",
@@ -822,11 +903,19 @@
         }
       ],
       "description": [],
-      "categories": [""],
+      "categories": [
+        ""
+      ],
       "primaryImage": "/images/newProductImages/eclairs/milk.webp",
-      "images": ["/images/newProductImages/eclairs/milk.webp"],
-      "tags": ["Eclairs"],
-      "collections": ["Classic Favorites"],
+      "images": [
+        "/images/newProductImages/eclairs/milk.webp"
+      ],
+      "tags": [
+        "Eclairs"
+      ],
+      "collections": [
+        "Classic Favorites"
+      ],
       "isFeatured": false,
       "availability": "InStock",
       "status": "Active",
@@ -861,8 +950,12 @@
       "images": [
         "https://res.cloudinary.com/dyxmjxrgx/image/upload/v1750422194/Mint_Candy_vpyapm.webp"
       ],
-      "tags": ["Candy"],
-      "collections": [""],
+      "tags": [
+        "Candy"
+      ],
+      "collections": [
+        ""
+      ],
       "isFeatured": false,
       "availability": "InStock",
       "status": "Active",
@@ -894,9 +987,15 @@
       "description": [],
       "categories": [],
       "primaryImage": "/images/newProductImages/eclairs/peanut.webp",
-      "images": ["/images/newProductImages/eclairs/peanut.webp"],
-      "tags": ["Eclairs"],
-      "collections": ["Best Sellers"],
+      "images": [
+        "/images/newProductImages/eclairs/peanut.webp"
+      ],
+      "tags": [
+        "Eclairs"
+      ],
+      "collections": [
+        "Best Sellers"
+      ],
       "isFeatured": false,
       "availability": "InStock",
       "status": "Active",
@@ -928,9 +1027,15 @@
       "description": [],
       "categories": [],
       "primaryImage": "/images/newProductImages/eclairs/selection.webp",
-      "images": ["/images/newProductImages/eclairs/selection.webp"],
-      "tags": ["Eclairs"],
-      "collections": [""],
+      "images": [
+        "/images/newProductImages/eclairs/selection.webp"
+      ],
+      "tags": [
+        "Eclairs"
+      ],
+      "collections": [
+        ""
+      ],
       "isFeatured": false,
       "availability": "InStock",
       "status": "Active",
@@ -965,8 +1070,12 @@
       "images": [
         "https://res.cloudinary.com/dyxmjxrgx/image/upload/v1750422243/Sour_Pop_kefc8q.webp"
       ],
-      "tags": ["Pops"],
-      "collections": [""],
+      "tags": [
+        "Pops"
+      ],
+      "collections": [
+        ""
+      ],
       "isFeatured": false,
       "availability": "InStock",
       "status": "Active",
@@ -975,7 +1084,6 @@
       "updatedAt": "2025-06-21T04:45:44.729Z",
       "__v": 0
     },
-
     {
       "_id": "685611110894a309e63d984b",
       "name": "Abaan Toffees",
@@ -999,9 +1107,15 @@
       "description": [],
       "categories": [],
       "primaryImage": "/images/newProductImages/abaantoffee mockup.webp",
-      "images": ["/images/newProductImages/abaantoffee mockup.webp"],
-      "tags": ["Toffee"],
-      "collections": [""],
+      "images": [
+        "/images/newProductImages/abaantoffee mockup.webp"
+      ],
+      "tags": [
+        "Toffee"
+      ],
+      "collections": [
+        ""
+      ],
       "isFeatured": false,
       "availability": "InStock",
       "status": "Active",
@@ -1033,9 +1147,15 @@
       "description": [],
       "categories": [],
       "primaryImage": "/images/newProductImages/kunafaBall.webp",
-      "images": ["/images/newProductImages/kunafaBall.webp"],
-      "tags": ["Balls"],
-      "collections": ["New Arrivals"],
+      "images": [
+        "/images/newProductImages/kunafaBall.webp"
+      ],
+      "tags": [
+        "Balls"
+      ],
+      "collections": [
+        "New Arrivals"
+      ],
       "isFeatured": false,
       "availability": "InStock",
       "status": "Active",
@@ -1043,6 +1163,408 @@
       "createdAt": "2025-06-21T01:55:29.467Z",
       "updatedAt": "2025-06-21T04:45:44.729Z",
       "__v": 0
+    },
+    {
+      "_id": "685611110894a309e63d982c",
+      "name": "Abaan Selection Eclairs (24 x 300g)",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "/images/ABAAN ECLAIRS Selection CREAM 300g.png",
+      "images": [
+        "/images/ABAAN ECLAIRS Selection CREAM 300g.png"
+      ],
+      "tags": [
+        "Eclairs"
+      ],
+      "collections": [
+        "New Arrivals"
+      ],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.467Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    },
+    {
+      "_id": "685611110894a309e63d9843",
+      "name": "Abaan Milk Eclairs (12 X550g)",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "/images/milk eclairs_550g.jpg",
+      "images": [
+        "/images/milk eclairs_550g.jpg"
+      ],
+      "tags": [
+        "Eclairs"
+      ],
+      "collections": [
+        "New Arrivals"
+      ],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.467Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    },
+    {
+      "_id": "685611110894a309e63d9844",
+      "name": "Abaan Chocolate Eclairs (12 X550g)",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "/images/chocolate eclairs_550g.jpg",
+      "images": [
+        "/images/chocolate eclairs_550g.jpg"
+      ],
+      "tags": [
+        "Eclairs"
+      ],
+      "collections": [
+        "New Arrivals"
+      ],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.467Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    },
+    {
+      "_id": "685611110894a309e63d9845",
+      "name": "Dubai Kunafa chocolate",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "/images/kunafa_100 outer.jpg",
+      "images": [
+        "/images/kunafa_100 outer.jpg"
+      ],
+      "tags": [
+        "Chocolate"
+      ],
+      "collections": [
+        "New Arrivals"
+      ],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.467Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    },
+    {
+      "_id": "685611110894a309e63d9846",
+      "name": "Dubai Kunafa dark chocolate",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "/images/kunafa_100 outer_dark.jpg",
+      "images": [
+        "/images/kunafa_100 outer_dark.jpg"
+      ],
+      "tags": [
+        "Chocolate"
+      ],
+      "collections": [
+        "New Arrivals"
+      ],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.467Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    },
+    {
+      "_id": "685611110894a309e63d9847",
+      "name": "Dark coffee Kunafa chocolate",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "/images/kunafa_24g.png",
+      "images": [
+        "/images/kunafa_24g.png"
+      ],
+      "tags": [
+        "Chocolate"
+      ],
+      "collections": [
+        "New Arrivals"
+      ],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.467Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    },
+    {
+      "_id": "685611110894a309e63d9848",
+      "name": "Dubai kunafa dark chocolate",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "/images/kunafa dark box 100.jpg",
+      "images": [
+        "/images/kunafa dark box 100.jpg"
+      ],
+      "tags": [
+        "Chocolate"
+      ],
+      "collections": [
+        "New Arrivals"
+      ],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.467Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    },
+    {
+      "_id": "685611110894a309e63d9849",
+      "name": "Dubai Kunafa Chocolate",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "/images/kunafa box 100.jpg",
+      "images": [
+        "/images/kunafa box 100.jpg"
+      ],
+      "tags": [
+        "Chocolate"
+      ],
+      "collections": [
+        "New Arrivals"
+      ],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.467Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0
+    },
+    {
+      "_id": "685611110894a309e63d9991",
+      "name": "Kofy candy - Coffee with cream",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "/images/creamcofee.png",
+      "images": [
+        "/images/creamcofee.png"
+      ],
+      "tags": [
+        "Candy"
+      ],
+      "collections": [
+        "New Arrivals"
+      ],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.467Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0,
+      "isNew": true
+    },
+    {
+      "_id": "685611110894a309e63d9992",
+      "name": "Kofy candy - Black Coffee",
+      "prices": [
+        {
+          "country": "UAE",
+          "currency": "AED",
+          "price": 40.92
+        },
+        {
+          "country": "Africa",
+          "currency": "ZAR",
+          "price": 102.3
+        },
+        {
+          "country": "India",
+          "currency": "INR",
+          "price": 347.82
+        }
+      ],
+      "description": [],
+      "categories": [],
+      "primaryImage": "/images/Black Coffee.png",
+      "images": [
+        "/images/Black Coffee.png"
+      ],
+      "tags": [
+        "Candy"
+      ],
+      "collections": [
+        "New Arrivals"
+      ],
+      "isFeatured": false,
+      "availability": "InStock",
+      "status": "Active",
+      "variants": [],
+      "createdAt": "2025-06-21T01:55:29.467Z",
+      "updatedAt": "2025-06-21T04:45:44.729Z",
+      "__v": 0,
+      "isNew": true
     }
   ]
 }

@@ -17,6 +17,8 @@ import Shop from "./pages/Shop";
 import Contact from "./pages/Contact";
 import Blog from "./pages/Blog";
 import Product from "./pages/Product";
+import People from "./pages/People";
+import Media from "./pages/Media";
 import ScrollToTop from "./components/ScrollToTop";
 import Cart from "./pages/Cart";
 import Checkout from "./pages/Checkout";
@@ -137,6 +139,8 @@ function AnimatedRoutes() {
         <Route path="/blog" element={<Blog />} />
         <Route path="/shop" element={<Shop />} />
         <Route path="/shop/*" element={<Product />} />
+        <Route path="/people" element={<People />} />
+        <Route path="/media" element={<Media />} />
         <Route path="/contact" element={<Contact />} />
       </Routes>
     </AnimatePresence>

@@ -33,7 +33,7 @@ export default function Shop() {
         col.toLowerCase().includes(lowerCaseCollectionName),
       ),
     );
-    const merged = [...filtered].slice(0, 4);
+    const merged = [...filtered];
     return merged.map((p) => ({
       ...p,
       para:
@@ -63,7 +63,7 @@ export default function Shop() {
 
     // Fallback to productList1 if not enough
 
-    return [...selected].slice(0, 4).map((p) => ({
+    return [...selected].map((p) => ({
       ...p,
       para: p.description || "Indulge in our best-loved flavors.",
     }));
@@ -98,7 +98,7 @@ export default function Shop() {
 
     // Fallback to productList1 if not enough
 
-    return [...selected, ...products].slice(0, 4).map((p) => ({
+    return [...selected, ...products].map((p) => ({
       ...p,
       para: p.description || "Indulge in our best-loved flavors.",
     }));
@@ -125,7 +125,7 @@ export default function Shop() {
         col.toLowerCase().includes(lowerCaseCollectionName),
       ),
     );
-    const merged = [...filtered].slice(0, 4);
+    const merged = [...filtered];
     return merged.map((p) => ({
       ...p,
       para:

@@ -49,7 +49,7 @@ export default function Range({ startAnimation }) {
           {products.map((card, index) => {
             return (
               <div key={index}>
-                <Card imgSrc={card.imgSrc} title={card.name} />
+                <Card imgSrc={card.imgSrc} title={card.name} isNew={card.isNew} />
               </div>
             );
           })}
@@ -62,10 +62,24 @@ export default function Range({ startAnimation }) {
   );
 }
 
-function Card({ title, imgSrc }) {
+function Card({ title, imgSrc, isNew }) {
   return (
     <div className="flex flex-col gap-5 w-full col-span-1 ">
-      <div className="w-full">
+      <div className="w-full relative">
+        {isNew && (
+          <motion.div 
+            initial={{ scale: 0.8, rotate: -12 }}
+            animate={{ scale: [0.95, 1.05, 0.95] }}
+            transition={{ repeat: Infinity, duration: 1.5, ease: "easeInOut" }}
+            className="absolute -top-3 -left-3 z-10 bg-gradient-to-br from-[#EC1D23] to-[#8c1014] text-white text-xs font-black uppercase tracking-widest py-3 px-3 rounded-full shadow-[0_4px_12px_rgba(236,29,35,0.4)] flex items-center justify-center border-[3px] border-white"
+            style={{ 
+              width: '60px',
+              height: '60px',
+            }}
+          >
+            New!
+          </motion.div>
+        )}
         <SplashImage
           imgSrc={imgSrc}
           className="py-4 px-5 w-full aspect-square shadow-lg rounded-xl RangeCard"

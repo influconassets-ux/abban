@@ -1,25 +1,20 @@
 import { useState } from "react";
 
-export default function SplashImage({bgColor = "inherit",imgSrc,className, defaultImg="/images/choco1.webp"}) {
+export default function SplashImage({bgColor = "inherit",imgSrc,className}) {
   const [isLoaded, setIsLoaded] = useState(false);
 
   return (
-    <div className={`relative ${className} flex items-center justify-center`}>
+    <div className={`relative ${className} flex items-center justify-center overflow-hidden rounded-xl`}>
       {!isLoaded && (
-        <img
-          src={defaultImg}
-          alt="Placeholder"
-          className="w-full h-auto absolute inset-0 object-cover"
-        />
+        <div className="absolute inset-0 w-full h-full bg-black/5 animate-pulse" />
       )}
       <img
-      style={{ backgroundColor: `${bgColor}` }}
         src={imgSrc}
         alt="Splash"
         loading="lazy"
         onLoad={() => setIsLoaded(true)}
-        onError={() => setIsLoaded(true)} // hide fallback even if it fails
-        className={`w-full h-[94%] object-contain transition-opacity duration-500 ${
+        onError={() => setIsLoaded(true)}
+        className={`w-full h-[94%] object-contain mix-blend-multiply transition-opacity duration-500 ${
           isLoaded ? 'opacity-100' : 'opacity-0'
         }`}
       />

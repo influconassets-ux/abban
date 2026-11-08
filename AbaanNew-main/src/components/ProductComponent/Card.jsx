@@ -7,7 +7,7 @@ import { motion } from "framer-motion";
 
 let regionToastId;
 
-function Card({ bgColor = "#F7F2F7", name, para, price, imgSrc, _id }) {
+function Card({ bgColor = "#F7F2F7", name, para, price, imgSrc, _id, isNew }) {
   const [like, setLike] = useState(false);
   // const addToCart = useCartStore((state) => state.addToCart);
   // const navigate = useNavigate();
@@ -144,6 +144,20 @@ function Card({ bgColor = "#F7F2F7", name, para, price, imgSrc, _id }) {
         style={{ backgroundColor: bgColor }}
         className="flex justify-center items-center relative"
       >
+        {isNew && (
+          <motion.div 
+            initial={{ scale: 0.8, rotate: -12 }}
+            animate={{ scale: [0.95, 1.05, 0.95] }}
+            transition={{ repeat: Infinity, duration: 1.5, ease: "easeInOut" }}
+            className="absolute -top-2 -left-2 z-10 bg-gradient-to-br from-[#EC1D23] to-[#8c1014] text-white text-[11px] font-black uppercase tracking-widest py-3 px-3 rounded-full shadow-[0_4px_12px_rgba(236,29,35,0.4)] flex items-center justify-center border-[2px] border-white"
+            style={{ 
+              width: '50px',
+              height: '50px',
+            }}
+          >
+            New!
+          </motion.div>
+        )}
         <SplashImage
           bgColor={bgColor}
           imgSrc={imgSrc}
@@ -163,9 +177,9 @@ function Card({ bgColor = "#F7F2F7", name, para, price, imgSrc, _id }) {
           />
         </button>
       </div>
-      <div className="w-[99%] flex font-bold text-[#0F0200] px-2 h-10">
-        <h3 className="w-[70%]  font-archivo">{name}</h3>
-        <div className="w-[30%] flex items-center justify-end font-semibold font-archivo">
+      <div className="w-full flex justify-between font-bold text-[#0F0200] px-2 h-auto min-h-[2.5rem] pb-2 items-start gap-2">
+        <h3 className="flex-1 font-archivo leading-tight">{name}</h3>
+        <div className="shrink-0 flex items-center justify-end font-semibold font-archivo">
           <span className="fa fa-star text-[#FBAB2A] pr-1"></span>4.9/5
         </div>
       </div>

@@ -63,6 +63,20 @@ const Navbar = () => {
           </Link>
 
           <Link
+            to="/people"
+            className="flex items-center font-archivo gap-1 font-normal text-[1.4vw] lg:text-[1.1vw]"
+          >
+            People
+          </Link>
+
+          <Link
+            to="/media"
+            className="flex items-center font-archivo gap-1 font-normal text-[1.4vw] lg:text-[1.1vw]"
+          >
+            Media
+          </Link>
+
+          <Link
             to="/contact"
             className="flex items-center font-archivo gap-1 font-normal text-[1.4vw] lg:text-[1.1vw]"
           >

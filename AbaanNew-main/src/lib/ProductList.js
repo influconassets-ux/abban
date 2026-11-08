@@ -95,10 +95,7 @@ const products = [
     name: "Honey Eclairs",
     imgSrc: "/images/newProductImages/eclairs/honey.webp",
   },
-  {
-    name: "Kofy Candy",
-    imgSrc: "/images/newProductImages/kofycandy.webp",
-  },
+
   {
     name: "Milk Eclairs",
     imgSrc: "/images/newProductImages/eclairs/milk.webp",
@@ -113,9 +110,51 @@ const products = [
     imgSrc: "/images/newProductImages/eclairs/selection.webp",
   },
   {
-    name: "Kunafa Dark Chocolate",
+    name: "Dark coffee kunafa chocolate (100g)",
     imgSrc: "/images/new product.jpeg",
   },
+  {
+    name: "Abaan Selection Eclairs (24 x 300g)",
+    imgSrc: "/images/ABAAN ECLAIRS Selection CREAM 300g.png",
+  },
+  {
+    name: "Abaan Milk Eclairs (12 X550g)",
+    imgSrc: "/images/milk eclairs_550g.jpg",
+  },
+  {
+    name: "Abaan Chocolate Eclairs (12 X550g)",
+    imgSrc: "/images/chocolate eclairs_550g.jpg",
+  },
+  {
+    name: "Dubai Kunafa chocolate",
+    imgSrc: "/images/kunafa_100 outer.jpg",
+  },
+  {
+    name: "Dubai Kunafa dark chocolate",
+    imgSrc: "/images/kunafa_100 outer_dark.jpg",
+  },
+  {
+    name: "Dark coffee Kunafa chocolate",
+    imgSrc: "/images/kunafa_24g.png",
+  },
+  {
+    name: "Dubai kunafa dark chocolate",
+    imgSrc: "/images/kunafa dark box 100.jpg",
+  },
+  {
+    name: "Dubai Kunafa Chocolate",
+    imgSrc: "/images/kunafa box 100.jpg",
+  },
+  {
+    name: "Kofy candy - Coffee with cream",
+    imgSrc: "/images/creamcofee.png",
+    isNew: true,
+  },
+  {
+    name: "Kofy candy - Black Coffee",
+    imgSrc: "/images/Black Coffee.png",
+    isNew: true,
+  }
 ];
 
 const productList2 = [

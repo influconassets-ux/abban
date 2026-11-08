@@ -57,6 +57,22 @@ const Hambutton = () => {
 
             <Link
               onClick={() => setActive(false)}
+              to="/people"
+              className="flex items-center globalHeaderFont gap-[2px] font-semibold text-2xl"
+            >
+              People
+            </Link>
+
+            <Link
+              onClick={() => setActive(false)}
+              to="/media"
+              className="flex items-center globalHeaderFont gap-[2px] font-semibold text-2xl"
+            >
+              Media
+            </Link>
+
+            <Link
+              onClick={() => setActive(false)}
               to="/contact"
               className="flex items-center globalHeaderFont gap-[2px] font-semibold text-2xl"
             >

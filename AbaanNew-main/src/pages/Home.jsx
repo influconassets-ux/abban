@@ -9,6 +9,7 @@ import Category from "../components/homepage/Category/Category";
 import Sellers from "../components/Sellers/Sellers";
 import HeartPeople from "../components/homepage/HeartPeople/HeartPeople";
 import Arrival from "../components/Arrival/Arrival";
+import LazyImage from "../components/LazyImage";
 // import Instagram from "../components/Instagram/Instagram";
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
@@ -69,11 +70,11 @@ const Home = () => {
           viewport={{ once: true }}
           className="w-full h-fit relative"
         >
-          <img
+          <LazyImage
             src={"/images/banner2.webp"}
             alt="Splash"
-            loading="lazy"
             className={`w-full h-auto object-cover transition-opacity duration-500 `}
+            containerClassName="w-full h-full"
           />
           {/* <div className="flex w-fit h-fit absolute top-[65%] translate-y-1/2 left-[12%] translate-x-1/2">
             <Link
@@ -100,11 +101,11 @@ const Home = () => {
           viewport={{ once: true }}
           className="w-full h-fit relative"
         >
-          <img
+          <LazyImage
             src={"/images/mdBanner.webp"}
             alt="Splash"
-            loading="lazy"
             className={`w-full h-auto object-cover transition-opacity duration-500 `}
+            containerClassName="w-full h-full"
           />
           {/* <div className="flex w-fit h-fit absolute top-[15%] translate-y-1/2 right-4 xs:-right-[3%] xs:-translate-x-1/2">
             <Link
